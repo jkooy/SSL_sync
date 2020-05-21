@@ -1,0 +1,918 @@
+keys tensor([[ 0.2464, -0.0634,  0.1401,  ..., -0.0712, -0.1404, -0.0263],
+        [ 0.2440, -0.0760,  0.1289,  ..., -0.0546, -0.1690, -0.0755],
+        [ 0.2695, -0.0633,  0.1128,  ..., -0.0531, -0.1039, -0.0464],
+        ...,
+        [ 0.2399, -0.0979,  0.1344,  ..., -0.0453, -0.1740, -0.0610],
+        [ 0.1696, -0.1233,  0.1188,  ..., -0.0219, -0.2133, -0.1060],
+        [ 0.2609, -0.0654,  0.1278,  ..., -0.0418, -0.1803, -0.0721]],
+       device='cuda:0')
+keys tensor([[ 0.2464, -0.0634,  0.1401,  ..., -0.0712, -0.1404, -0.0263],
+        [ 0.2440, -0.0760,  0.1289,  ..., -0.0546, -0.1690, -0.0755],
+        [ 0.2695, -0.0633,  0.1128,  ..., -0.0531, -0.1039, -0.0464],
+        ...,
+        [ 0.2399, -0.0979,  0.1344,  ..., -0.0453, -0.1740, -0.0610],
+        [ 0.1696, -0.1233,  0.1188,  ..., -0.0219, -0.2133, -0.1060],
+        [ 0.2609, -0.0654,  0.1278,  ..., -0.0418, -0.1803, -0.0721]],
+       device='cuda:1')
+keys tensor([[ 0.2464, -0.0634,  0.1401,  ..., -0.0712, -0.1404, -0.0263],
+        [ 0.2440, -0.0760,  0.1289,  ..., -0.0546, -0.1690, -0.0755],
+        [ 0.2695, -0.0633,  0.1128,  ..., -0.0531, -0.1039, -0.0464],
+        ...,
+        [ 0.2399, -0.0979,  0.1344,  ..., -0.0453, -0.1740, -0.0610],
+        [ 0.1696, -0.1233,  0.1188,  ..., -0.0219, -0.2133, -0.1060],
+        [ 0.2609, -0.0654,  0.1278,  ..., -0.0418, -0.1803, -0.0721]],
+       device='cuda:2')
+keys tensor([[ 0.2464, -0.0634,  0.1401,  ..., -0.0712, -0.1404, -0.0263],
+        [ 0.2440, -0.0760,  0.1289,  ..., -0.0546, -0.1690, -0.0755],
+        [ 0.2695, -0.0633,  0.1128,  ..., -0.0531, -0.1039, -0.0464],
+        ...,
+        [ 0.2399, -0.0979,  0.1344,  ..., -0.0453, -0.1740, -0.0610],
+        [ 0.1696, -0.1233,  0.1188,  ..., -0.0219, -0.2133, -0.1060],
+        [ 0.2609, -0.0654,  0.1278,  ..., -0.0418, -0.1803, -0.0721]],
+       device='cuda:3')
+keys torch.Size([128, 128])
+keys torch.Size([128, 128])
+keys torch.Size([128, 128])
+keys torch.Size([128, 128])
+keys
+keys
+keys
+keys torch.Size([128, 128])
+keys torch.Size([128, 128])
+queue
+queue
+keys torch.Size([128, 128])
+queue
+keys
+keys torch.Size([128, 128])
+queue
+Index 0 image corrupt
+Index 0 image corrupt
+Index 0 image corrupt
+Index 0 image corrupt
+Index 0 image corrupt
+Index 0 image corrupt
+Index 0 image corrupt
+Index 0 image corrupt
+Index 0 image corrupt
+Index 0 image corrupt
+Index 0 image corrupt
+Index 0 image corrupt
+Index 0 image corrupt
+Index 0 image corrupt
+Index 0 image corrupt
+Index 0 image corrupt
+Index 0 image corrupt
+Index 0 image corrupt
+Index 0 image corrupt
+Index 0 image corrupt
+Index 0 image corrupt
+Index 0 image corrupt
+Index 0 image corrupt
+Index 0 image corrupt
+Index 309 image corrupt
+Index 309 image corrupt
+Index 309 image corrupt
+Index 309 image corrupt
+Index 657 image corrupt
+Index 657 image corrupt
+Index 226 image corrupt
+Index 226 image corrupt
+Index 281 image corrupt
+Index 281 image corrupt
+Index 286 image corrupt
+Index 286 image corrupt
+Index 163 image corrupt
+Index 163 image corrupt
+Index 307 image corrupt
+Index 307 image corrupt
+Index 126 image corrupt
+Index 126 image corrupt
+Index 163 image corrupt
+Index 163 image corrupt
+Index 598 image corrupt
+Index 598 image corrupt
+Index 633 image corrupt
+Index 633 image corrupt
+Index 2 image corrupt
+Index 2 image corrupt
+Index 307 image corrupt
+Index 307 image corrupt
+Index 44 image corrupt
+Index 44 image corrupt
+Index 580 image corrupt
+Index 580 image corrupt
+Index 358 image corrupt
+Index 358 image corrupt
+Index 384 image corrupt
+Index 384 image corrupt
+Index 671 image corrupt
+Index 671 image corrupt
+Index 126 image corrupt
+Index 126 image corrupt
+Index 726 image corrupt
+Index 726 image corrupt
+Index 814 image corrupt
+Index 814 image corrupt
+Index 518 image corrupt
+Index 518 image corrupt
+Index 216 image corrupt
+Index 216 image corrupt
+Index 425 image corrupt
+Index 425 image corrupt
+Index 421 image corrupt
+Index 421 image corrupt
+Index 557 image corrupt
+Index 557 image corrupt
+Index 270 image corrupt
+Index 270 image corrupt
+Index 598 image corrupt
+Index 598 image corrupt
+Index 633 image corrupt
+Index 633 image corrupt
+Index 2 image corrupt
+Index 2 image corrupt
+Index 418 image corrupt
+Index 418 image corrupt
+Index 361 image corrupt
+Index 361 image corrupt
+Index 790 image corrupt
+Index 790 image corrupt
+Index 240 image corrupt
+Index 240 image corrupt
+Index 379 image corrupt
+Index 379 image corrupt
+Index 95 image corrupt
+Index 95 image corrupt
+Index 734 image corrupt
+Index 734 image corrupt
+Index 216 image corrupt
+Index 216 image corrupt
+Index 722 image corrupt
+Index 722 image corrupt
+Index 2 image corrupt
+Index 2 image corrupt
+Index 466 image corrupt
+Index 466 image corrupt
+Index 560 image corrupt
+Index 560 image corrupt
+Index 363 image corrupt
+Index 363 image corrupt
+Index 705 image corrupt
+Index 705 image corrupt
+Index 671 image corrupt
+Index 671 image corrupt
+Index 124 image corrupt
+Index 124 image corrupt
+Index 724 image corrupt
+Index 724 image corrupt
+Index 493 image corrupt
+Index 493 image corrupt
+Index 374 image corrupt
+Index 374 image corrupt
+Index 140 image corrupt
+Index 140 image corrupt
+Index 44 image corrupt
+Index 44 image corrupt
+Index 580 image corrupt
+Index 580 image corrupt
+Index 96 image corrupt
+Index 96 image corrupt
+Index 277 image corrupt
+Index 277 image corrupt
+Index 218 image corrupt
+Index 218 image corrupt
+Index 760 image corrupt
+Index 760 image corrupt
+Index 477 image corrupt
+Index 477 image corrupt
+Index 6 image corrupt
+Index 6 image corrupt
+Index 37 image corrupt
+Index 37 image corrupt
+Index 358 image corrupt
+Index 358 image corrupt
+Index 790 image corrupt
+Index 790 image corrupt
+Index 769 image corrupt
+Index 769 image corrupt
+Index 673 image corrupt
+Index 673 image corrupt
+Index 497 image corrupt
+Index 497 image corrupt
+Index 718 image corrupt
+Index 718 image corrupt
+Index 560 image corrupt
+Index 560 image corrupt
+Index 384 image corrupt
+Index 384 image corrupt
+Index 671 image corrupt
+Index 671 image corrupt
+Index 533 image corrupt
+Index 533 image corrupt
+Index 618 image corrupt
+Index 618 image corrupt
+Index 446 image corrupt
+Index 446 image corrupt
+Index 381 image corrupt
+Index 381 image corrupt
+Index 693 image corrupt
+Index 693 image corrupt
+Index 580 image corrupt
+Index 580 image corrupt
+Index 307 image corrupt
+Index 307 image corrupt
+Index 193 image corrupt
+Index 193 image corrupt
+Index 164 image corrupt
+Index 164 image corrupt
+Index 208 image corrupt
+Index 208 image corrupt
+Index 480 image corrupt
+Index 480 image corrupt
+Index 688 image corrupt
+Index 688 image corrupt
+Index 74 image corrupt
+Index 74 image corrupt
+Index 231 image corrupt
+Index 231 image corrupt
+Index 726 image corrupt
+Index 726 image corrupt
+Index 140 image corrupt
+Index 140 image corrupt
+Index 729 image corrupt
+Index 729 image corrupt
+Index 513 image corrupt
+Index 513 image corrupt
+Index 599 image corrupt
+Index 599 image corrupt
+Index 814 image corrupt
+Index 814 image corrupt
+Index 181 image corrupt
+Index 181 image corrupt
+Index 16 image corrupt
+Index 16 image corrupt
+Index 198 image corrupt
+Index 198 image corrupt
+Index 439 image corrupt
+Index 439 image corrupt
+Index 518 image corrupt
+Index 518 image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Index 216 image corrupt
+Index 216 image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Index 425 image corrupt
+Index 425 image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Index 421 image corrupt
+Index 421 image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Index 557 image corrupt
+Index 557 image corrupt
+Index 270 image corrupt
+Index 270 image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Index 396 image corrupt
+Index 396 image corrupt
+Index 310 image corrupt
+Index 310 image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Index 515 image corrupt
+Index 515 image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Index 438 image corrupt
+Index 438 image corrupt
+Index 489 image corrupt
+Index 489 image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+AUC 108754
+AUC 108754
+AUC 108754
+AUC 108754
+AUC 108754
+AUC 108754
+AUC 108754
+AUC 108754
+len 108754
+len 108754
+len 108754
+len 108754
+len 108754
+len 108754
+len 108754
+len 108754
+len 108754
+len 108754
+len 108754
+len 108754
+len 108754
+len 108754
+len 108754
+len 108754
+len 108754
+len 108754
+len 108754
+len 108754
+len 108754
+len 108754
+len 108754
+len 108754
+len 108754
+len 108754
+len train 10875
+len train 10875
+len 108754
+len 108754
+len 108754
+len 108754
+len 108754
+len 108754
+len train 10875
+len train 10875
+len train 10875
+len train 10875
+len train 10875
+len train 10875
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+len 108754
+len 108754
+len 108754
+len 108754
+len train 10875
+len train 10875
+len train 10875
+len train 10875
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+len 108754
+len 108754
+len 108754
+len 108754
+len train 10875
+len train 10875
+len train 10875
+len train 10875
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+Image corrupt
+len 108754
+len 108754
+len train 10875
+len train 10875
+Image corrupt
+Image corrupt
